@@ -1252,13 +1252,6 @@
               "type": "tm.Text",
               "name": "Ralf Hernandez\n12117943",
               "hasOpenThreats": false
-            },
-            "tools": {
-              "items": [
-                "boundary",
-                "button-remove"
-              ],
-              "name": null
             }
           }
         ],
