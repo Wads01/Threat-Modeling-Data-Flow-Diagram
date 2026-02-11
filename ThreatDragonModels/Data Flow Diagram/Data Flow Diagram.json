@@ -1200,6 +1200,7 @@
             "shape": "trust-boundary-curve",
             "width": 200,
             "height": 100,
+            "zIndex": 11,
             "connector": "smooth",
             "data": {
               "type": "tm.Boundary",
@@ -1227,8 +1228,38 @@
                 "x": 482,
                 "y": 292
               }
-            ],
-            "zIndex": 11
+            ]
+          },
+          {
+            "position": {
+              "x": 118.75,
+              "y": 20
+            },
+            "size": {
+              "width": 112.5,
+              "height": 60
+            },
+            "attrs": {
+              "text": {
+                "text": "Ralf Hernandez\n12117943"
+              }
+            },
+            "visible": true,
+            "shape": "td-text-block",
+            "id": "e93c11e0-0763-4dbd-a3bc-727ee4a14f34",
+            "zIndex": 12,
+            "data": {
+              "type": "tm.Text",
+              "name": "Ralf Hernandez\n12117943",
+              "hasOpenThreats": false
+            },
+            "tools": {
+              "items": [
+                "boundary",
+                "button-remove"
+              ],
+              "name": null
+            }
           }
         ],
         "description": "WIP"
@@ -1236,6 +1267,6 @@
     ],
     "diagramTop": 1,
     "reviewer": "John Doe",
-    "threatTop": 0
+    "threatTop": 2
   }
 }
